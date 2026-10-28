@@ -1,0 +1,47 @@
+{
+  "_comment": "KOFIA 법규정보시스템 URL과 셀렉터. 화면이 바뀌면 이 파일만 고친다. 2026-10-27 확인.",
+  "base_url": "https://law.kofia.or.kr",
+  "urls": {
+    "tree": "/service/law/lawCurrentPartTree.do",
+    "view": "/service/law/lawView.do?seq={reg_id}&historySeq=0&gubun=cur&tree=part",
+    "fullscreen": "/service/law/lawFullScreen.do?seq={reg_id}&historySeq={revision_id}",
+    "content": "/service/law/lawFullScreenContent.do?seq={reg_id}&historySeq={revision_id}",
+    "article_print": "/service/law/detailArticlePrint.do?seq={reg_id}&historySeq={revision_id}&contentSeq={content_seq}",
+    "revision_list": "/service/revision/revisionlist.do",
+    "notice_list": "/service/revisionNotice/revisionNoticeList.do",
+    "notice_download": "/download.do?gubun=914&seq={notice_seq}",
+    "search_start": "/service/main/main.do"
+  },
+  "tree": {
+    "_comment": "트리는 WebFXTree JS 객체. 각 노드의 action이 gotoLawList(lawcode, folder, lawname, root, bcode, lawgroup, lawPower, name, aName, lawType, hseq, lawUrl)",
+    "root_var": "tree1",
+    "action_function": "gotoLawList",
+    "arg_index": {"reg_id": 0, "folder": 1, "name": 2, "law_type": 9, "revision_id": 10, "url": 11},
+    "law_types": {"1": "일반", "2": "파일만 제공", "3": "외부 링크"}
+  },
+  "revision_select": "#p_sel",
+  "content": {
+    "root": "#lawcontent",
+    "law_name": ".lawname",
+    "history": ".history",
+    "headings": {".part": 0, ".chapter": 1, ".partition": 1, ".section": 2},
+    "heading_blocks": ".PT, .CT, .ST",
+    "article_block": ".JO",
+    "article_title": ".article",
+    "paragraph": ".none, .hang, .ho, .dann, .mok",
+    "addenda": ".addenda",
+    "addenda_text": ".addenda_none",
+    "attachment_area": "a[name=inclosure]",
+    "attachment_link": "a[name=inclosure] a[href*='download.do']"
+  },
+  "list_rows": "table.brdComList tbody tr",
+  "pager_link": "a[href^='javascript:goPage']",
+  "search": {
+    "value": "#searchValue",
+    "field": "#searchType",
+    "fields": {"title": "규정명", "content": "규정내용", "attach": "별표파일명"},
+    "time_radio": "input[name=searchTimeType]",
+    "time_values": {"current": "now", "history": "past"},
+    "submit": "searchTotal()"
+  }
+}

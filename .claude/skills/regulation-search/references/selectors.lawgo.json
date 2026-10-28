@@ -1,0 +1,30 @@
+{
+  "_comment": "법제처 국가법령정보센터 URL과 셀렉터. 화면이 바뀌면 이 파일만 고친다. 2026-10-27 확인.",
+  "base_url": "https://www.law.go.kr",
+  "urls": {
+    "same_origin_stub": "/robots.txt",
+    "outer": "/{section}/{name}",
+    "article": "/{section}/{name}/{number}",
+    "law_search": "/LSW/lsSc.do?menuId=1&query={query}",
+    "admrul_search": "/admRulSc.do?menuId=5&query={query}"
+  },
+  "sections": {"law": "법령", "admrul": "행정규칙"},
+  "outer_iframe_src": "<iframe[^>]+id=\"lawService\"[^>]+src=\"([^\"]+)\"",
+  "revision_params": {"law": "lsiSeq", "admrul": "admRulSeq", "effective_date": "efYd"},
+  "content": {
+    "heading": "p.gtit",
+    "article_block": "div.lawcon",
+    "article_heading": "span.bl",
+    "addenda_area": "#arDivArea",
+    "addenda_label": "#arDivArea p.pty3",
+    "addenda_para": "#arDivArea p.pty3_dep1, #arDivArea p.pty3_dep2, #arDivArea p.pty3_dep3"
+  },
+  "search": {
+    "tabs": {"content": "조문내용", "title": "조문제목"},
+    "tab_link": "a[id^=tab]",
+    "ready_header": "조문명",
+    "result_item": "li[id^=liBgcolor]",
+    "upcoming_icon_alt": "앞으로 시행될 법령",
+    "article_link": "a[onclick^=fJoView]"
+  }
+}

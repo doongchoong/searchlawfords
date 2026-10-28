@@ -1,0 +1,7 @@
+python314.zip
+.
+# 법규 검색 스킬: scripts 폴더의 모듈(store, cdp, adapters …)을 바로 import하도록 추가
+../../scripts
+
+# Uncomment to run site.main() automatically
+#import site

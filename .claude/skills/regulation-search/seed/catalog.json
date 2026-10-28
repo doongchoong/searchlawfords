@@ -1,0 +1,4196 @@
+{
+  "sites": {
+    "KOFIA": {
+      "updated_at": "2026-10-27T15:20:14",
+      "regulations": [
+        {
+          "site": "KOFIA",
+          "reg_id": "135",
+          "name": "자율규제위원회 운영 및 제재에 관한 규정",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "1813",
+          "revision_date": "2026-10-15",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=135&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "308",
+          "name": "자율규제위원회 운영 및 제재에 관한 규정 시행세칙",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "1460",
+          "revision_date": "2021-09-17",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=308&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "136",
+          "name": "금융투자회사의 영업 및 업무에 관한 규정",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "1814",
+          "revision_date": "2026-10-15",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=136&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "137",
+          "name": "금융투자회사의 영업 및 업무에 관한 규정 시행세칙",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "1815",
+          "revision_date": "2026-10-15",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=137&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "138",
+          "name": "금융투자전문인력과 자격시험에 관한 규정",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "1793",
+          "revision_date": "2026-09-10",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=138&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "139",
+          "name": "금융투자전문인력과 자격시험에 관한 규정 시행세칙",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "1507",
+          "revision_date": "2022-07-19",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=139&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "140",
+          "name": "증권 인수업무 등에 관한 규정",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "1782",
+          "revision_date": "2026-03-12",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=140&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "141",
+          "name": "금융투자회사의 약관운용에 관한 규정",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "1334",
+          "revision_date": "2019-12-17",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=141&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "142",
+          "name": "분쟁조정에 관한 규정",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "1305",
+          "revision_date": "2019-06-20",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=142&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "148",
+          "name": "퇴직연금제도 모집인 등록관리지침",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "1769",
+          "revision_date": "2026-01-01",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=148&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "297",
+          "name": "K-OTC시장 운영규정",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "1732",
+          "revision_date": "2025-08-19",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=297&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "298",
+          "name": "K-OTC시장 운영규정 시행세칙",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "1734",
+          "revision_date": "2025-09-01",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=298&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "330",
+          "name": "K-OTC PRO 운영 시행세칙",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "1369",
+          "revision_date": "2020-07-10",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=330&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "309",
+          "name": "K-OTCBB 운영 시행세칙",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "1529",
+          "revision_date": "2022-12-27",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=309&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "322",
+          "name": "적격기관투자자대상증권의 등록 및 관리 등에 관한 규정",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "1259",
+          "revision_date": "2018-08-21",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=322&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "323",
+          "name": "적격기관투자자대상증권의 등록 및 관리등에 관한 규정 시행세칙",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "1593",
+          "revision_date": "2023-12-08",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=323&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "355",
+          "name": "CD수익률 산출업무규정",
+          "category": [
+            "협회규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "1569",
+          "revision_date": "2022-12-09",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=355&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "284",
+          "name": "금융투자회사의 컴플라이언스 매뉴얼 공통·증권·선물편",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1770",
+          "revision_date": "2025-12-31",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=284&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "262",
+          "name": "금융투자회사의 컴플라이언스 매뉴얼 Ⅲ편(자산운용)",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1672",
+          "revision_date": "2024-12-31",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=262&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "149",
+          "name": "표준투자권유준칙",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1787",
+          "revision_date": "2026-04-09",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=149&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "150",
+          "name": "금융투자회사 표준내부통제기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1816",
+          "revision_date": "2026-10-15",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=150&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "154",
+          "name": "금융투자회사의 표준윤리준칙",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1048",
+          "revision_date": "2015-12-04",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=154&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "333",
+          "name": "금융투자회사의 영업행위 표준윤리준칙",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1252",
+          "revision_date": "2018-05-25",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=333&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "336",
+          "name": "금융투자회사의 증권 대차 및 공매도 업무처리 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1697",
+          "revision_date": "2025-03-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=336&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "153",
+          "name": "대표주관업무 등 모범기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1783",
+          "revision_date": "2026-03-12",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=153&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "318",
+          "name": "증권형 크라우드펀딩 표준업무방법서",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1452",
+          "revision_date": "2021-06-30",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=318&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "155",
+          "name": "금융투자회사의 리스크관리 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1800",
+          "revision_date": "2026-07-09",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=155&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "334",
+          "name": "금융투자회사의 대출금리 산정 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1621",
+          "revision_date": "2024-03-14",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=334&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "156",
+          "name": "금융투자회사의 금융사고 방지를 위한 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1799",
+          "revision_date": "2026-06-11",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=156&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "324",
+          "name": "IR·조사분석 업무처리강령",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1194",
+          "revision_date": "2017-05-24",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=324&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "329",
+          "name": "조사분석자료 내부검수 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1195",
+          "revision_date": "2017-05-25",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=329&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "296",
+          "name": "조사분석자료 공표 전 사전 제공 관련 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "887",
+          "revision_date": "2014-05-30",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=296&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "152",
+          "name": "투자권유대행기준 표준안",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1735",
+          "revision_date": "2025-02-20",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=152&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "285",
+          "name": "CMA 업무관련 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1379",
+          "revision_date": "2020-09-16",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=285&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "325",
+          "name": "지배구조 및 보수체계 연차보고서 작성기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1771",
+          "revision_date": "2026-01-07",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=325&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "326",
+          "name": "성과보수공모집합투자기구 운영지침",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1525",
+          "revision_date": "2022-12-19",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=326&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "146",
+          "name": "신상품 배타적 사용권 심의기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1050",
+          "revision_date": "2015-12-11",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=146&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "172",
+          "name": "금융투자상품 통일공시기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "475",
+          "revision_date": "2011-03-31",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=172&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "335",
+          "name": "금융투자회사 채용절차 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1355",
+          "revision_date": "2020-04-03",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=335&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "299",
+          "name": "비대면 금융투자영업에 대한 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "903",
+          "revision_date": "2014-04-01",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=299&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "173",
+          "name": "금융투자상품 계좌개설 및 매매를 위한 전자문서 관리 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "476",
+          "revision_date": "2012-12-21",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=173&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "282",
+          "name": "표준무보증사채 사채관리계약서",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1312",
+          "revision_date": "2019-09-05",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=282&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "159",
+          "name": "무보증사채 수요예측 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1367",
+          "revision_date": "2020-07-01",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=159&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "178",
+          "name": "최종호가수익률 공시를 위한 수익률 보고 관련 기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1577",
+          "revision_date": "2023-08-23",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=178&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "286",
+          "name": "파생결합증권·파생결합사채 신고서 작성 해설서",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1605",
+          "revision_date": "2024-01-10",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=286&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "177",
+          "name": "장외파생상품거래 한글약정서 권고안",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1072",
+          "revision_date": "2016-02-22",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=177&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "283",
+          "name": "집합투자재산 회계처리 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1748",
+          "revision_date": "2025-09-19",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=283&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "311",
+          "name": "집합투자업자의 사전자산배분 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1033",
+          "revision_date": "2015-09-14",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=311&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "319",
+          "name": "자산운용사의 의결권행사 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1585",
+          "revision_date": "2023-10-25",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=319&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "168",
+          "name": "파생상품 위험한도 관리를 위한 업무처리기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "470",
+          "revision_date": "2011-02-24",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=168&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "163",
+          "name": "특별자산펀드 업무처리 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "463",
+          "revision_date": "2009-12-24",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=163&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "171",
+          "name": "자문형 랩어카운트 운영 해설서",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1151",
+          "revision_date": "2017-01-02",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=171&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "294",
+          "name": "특정금전신탁 업무처리 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1670",
+          "revision_date": "2024-11-07",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=294&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "316",
+          "name": "신탁형 개인종합자산관리계좌 실무지침",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1615",
+          "revision_date": "2024-02-29",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=316&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "317",
+          "name": "일임형 개인종합자산관리계좌 실무지침",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1616",
+          "revision_date": "2024-02-29",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=317&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "313",
+          "name": "금융투자회사 개인(신용)정보보호 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1158",
+          "revision_date": "2016-12-31",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=313&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "337",
+          "name": "금융투자회사 해피콜 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1521",
+          "revision_date": "2022-11-11",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=337&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "338",
+          "name": "금융거래 상대방의 대리권 등 권한 확인을 위한 지침",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1341",
+          "revision_date": "2020-01-31",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=338&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "339",
+          "name": "고난도 금융투자상품 제조 및 판매에 관한 표준영업행위준칙",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1812",
+          "revision_date": "2026-09-10",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=339&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "340",
+          "name": "대체투자펀드 리스크관리 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1699",
+          "revision_date": "2025-03-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=340&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "341",
+          "name": "금융투자회사의 혁신금융업무 등에 대한 면책특례 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1392",
+          "revision_date": "2020-10-21",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=341&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "342",
+          "name": "신용평가회사 표준내부통제기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1773",
+          "revision_date": "2026-01-15",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=342&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "346",
+          "name": "금융투자회사의 금융소비자보호 표준내부통제기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1817",
+          "revision_date": "2026-10-15",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=346&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "343",
+          "name": "투자중개형 개인종합자산관리계좌 실무지침",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1617",
+          "revision_date": "2024-02-29",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=343&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "344",
+          "name": "개방형 집합투자기구의 유동성 위기상황분석 실시 기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1439",
+          "revision_date": "2021-05-21",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=344&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "345",
+          "name": "신탁업자의 수탁 업무처리 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1441",
+          "revision_date": "2021-06-01",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=345&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "349",
+          "name": "자산대사 업무 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1512",
+          "revision_date": "2022-09-30",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=349&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "350",
+          "name": "방문판매 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1584",
+          "revision_date": "2023-10-12",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=350&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "352",
+          "name": "집합투자기구에 편입된 비시장성 자산의 공정가액 평가에 관한 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1749",
+          "revision_date": "2025-09-19",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=352&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "353",
+          "name": "ESG채권 인증평가 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1544",
+          "revision_date": "2023-01-27",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=353&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "354",
+          "name": "펀드의 증권대차거래 업무 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1553",
+          "revision_date": "2023-03-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=354&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "356",
+          "name": "금융투자회사의 투자자예탁금 이용료율 산정 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1758",
+          "revision_date": "2025-11-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=356&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "363",
+          "name": "채권형 투자일임 및 특정금전신탁 리스크 관리 지침",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1669",
+          "revision_date": "2024-05-22",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=363&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "266",
+          "name": "유사해외통화선물거래",
+          "category": [
+            "모범규준",
+            "핵심설명서제도"
+          ],
+          "kind": "본규정",
+          "revision_id": "1805",
+          "revision_date": "2026-08-25",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=266&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "291",
+          "name": "신용거래융자핵심설명서(예시)",
+          "category": [
+            "모범규준",
+            "핵심설명서제도"
+          ],
+          "kind": "본규정",
+          "revision_id": "1391",
+          "revision_date": "2020-10-22",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=291&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "273",
+          "name": "일중매매거래위험고지서",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "765",
+          "revision_date": "2012-12-27",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=273&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "275",
+          "name": "장외파생상품거래에 관한 위험고지",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "1057",
+          "revision_date": "2015-12-24",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=275&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "277",
+          "name": "해외파생상품거래에 관한 위험고지",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "1271",
+          "revision_date": "2018-10-25",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=277&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "270",
+          "name": "신용 파생결합증권에 대한 위험고지",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "762",
+          "revision_date": "2012-12-27",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=270&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "272",
+          "name": "유사해외통화선물거래에 관한 위험고지",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "1056",
+          "revision_date": "2015-12-24",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=272&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "307",
+          "name": "상장지수증권 위험고지서",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "1588",
+          "revision_date": "2023-11-30",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=307&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "332",
+          "name": "변동성지수선물 상장지수증권 위험고지서",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "1243",
+          "revision_date": "2018-03-22",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=332&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "310",
+          "name": "코넥스 주식 거래에 관한 위험고지",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "1500",
+          "revision_date": "2022-05-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=310&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "281",
+          "name": "신용거래설명서",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "1704",
+          "revision_date": "2025-03-31",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=281&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "268",
+          "name": "시스템매매위험고지서",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "760",
+          "revision_date": "2012-12-27",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=268&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "274",
+          "name": "장내파생상품 거래설명서",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "1806",
+          "revision_date": "2026-08-25",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=274&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "271",
+          "name": "외화증권거래설명서",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "1804",
+          "revision_date": "2026-08-25",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=271&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "278",
+          "name": "주식워런트증권 거래설명서",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "1807",
+          "revision_date": "2026-08-25",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=278&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "347",
+          "name": "집합투자증권 핵심요약 상품설명서",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "1808",
+          "revision_date": "2026-08-25",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=347&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "348",
+          "name": "파생결합증권 핵심요약 상품설명서",
+          "category": [
+            "모범규준",
+            "설명서 및 위험고지"
+          ],
+          "kind": "본규정",
+          "revision_id": "1809",
+          "revision_date": "2026-08-25",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=348&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "360",
+          "name": "금융투자업 정보기술부문 비상대책 수립·운용 가이드라인",
+          "category": [
+            "모범규준",
+            "IT 안정성 강화 및 IT감사 가이드라인"
+          ],
+          "kind": "본규정",
+          "revision_id": "1592",
+          "revision_date": "2023-12-08",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=360&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "358",
+          "name": "금융투자업 정보기술부문 전산시스템 성능관리 가이드라인",
+          "category": [
+            "모범규준",
+            "IT 안정성 강화 및 IT감사 가이드라인"
+          ],
+          "kind": "본규정",
+          "revision_id": "1590",
+          "revision_date": "2023-12-08",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=358&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "359",
+          "name": "금융투자업 정보기술부문 프로그램 통제 가이드라인",
+          "category": [
+            "모범규준",
+            "IT 안정성 강화 및 IT감사 가이드라인"
+          ],
+          "kind": "본규정",
+          "revision_id": "1591",
+          "revision_date": "2023-12-08",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=359&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "374",
+          "name": "제1절 IT내부통제 기반사항",
+          "category": [
+            "모범규준",
+            "IT 안정성 강화 및 IT감사 가이드라인",
+            "IT감사 가이드라인"
+          ],
+          "kind": "본규정",
+          "revision_id": "1694",
+          "revision_date": "2025-02-28",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=374&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "375",
+          "name": "제2절 IT감사업무 수행단계별 준수사항",
+          "category": [
+            "모범규준",
+            "IT 안정성 강화 및 IT감사 가이드라인",
+            "IT감사 가이드라인"
+          ],
+          "kind": "본규정",
+          "revision_id": "1695",
+          "revision_date": "2025-02-28",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=375&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "364",
+          "name": "책임준공확약 토지신탁 업무처리 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1673",
+          "revision_date": "2025-01-02",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=364&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "365",
+          "name": "일반사무관리회사 표준내부통제기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1675",
+          "revision_date": "2025-01-23",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=365&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "366",
+          "name": "집합투자기구평가회사 표준내부통제기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1678",
+          "revision_date": "2025-01-23",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=366&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "368",
+          "name": "채권평가회사 표준내부통제기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1680",
+          "revision_date": "2025-01-23",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=368&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "369",
+          "name": "부동산pf 수수료의 공정성·합리성 제고 등을 위한 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1681",
+          "revision_date": "2025-01-23",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=369&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "370",
+          "name": "정비사업 업무처리 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1684",
+          "revision_date": "2025-09-12",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=370&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "376",
+          "name": "책임준공확약 PF대출 관련 업무처리 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1723",
+          "revision_date": "2025-05-29",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=376&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "377",
+          "name": "전담중개업무계약 표준서식",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1733",
+          "revision_date": "2025-08-28",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=377&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "378",
+          "name": "표준사채관리계약 면제 채권 기준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1731",
+          "revision_date": "2025-08-08",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=378&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "379",
+          "name": "부동산신탁사 영업행위 모범규준",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1759",
+          "revision_date": "2025-11-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=379&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "380",
+          "name": "업무위탁에 따른 제3자 리스크관리 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1794",
+          "revision_date": "2026-05-14",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=380&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "381",
+          "name": "제3자 IT리스크관리 가이드라인",
+          "category": [
+            "모범규준"
+          ],
+          "kind": "본규정",
+          "revision_id": "1801",
+          "revision_date": "2026-07-30",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=381&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "120",
+          "name": "매매거래계좌설정약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1785",
+          "revision_date": "2026-03-17",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=120&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "121",
+          "name": "파생상품계좌설정약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1789",
+          "revision_date": "2026-04-24",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=121&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "122",
+          "name": "외화증권매매거래계좌설정약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1796",
+          "revision_date": "2026-05-21",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=122&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "123",
+          "name": "신용거래약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1709",
+          "revision_date": "2025-05-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=123&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "124",
+          "name": "증권 대차거래 약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1710",
+          "revision_date": "2025-05-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=124&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "125",
+          "name": "연금저축계좌설정약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1776",
+          "revision_date": "2026-01-30",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=125&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "126",
+          "name": "대고객환매조건부매매약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1746",
+          "revision_date": "2025-09-15",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=126&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "127",
+          "name": "기관간환매조건부매매약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1713",
+          "revision_date": "2025-05-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=127&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "128",
+          "name": "기업어음증권거래약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1714",
+          "revision_date": "2025-05-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=128&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "129",
+          "name": "전자금융거래 이용에 관한 기본약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1715",
+          "revision_date": "2025-05-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=129&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "130",
+          "name": "외국집합투자증권 매매거래에 관한 표준약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1716",
+          "revision_date": "2025-05-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=130&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "131",
+          "name": "수익증권저축약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1717",
+          "revision_date": "2025-05-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=131&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "132",
+          "name": "해외파생상품시장거래중개계좌설정약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1767",
+          "revision_date": "2025-12-10",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=132&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "133",
+          "name": "해외파생상품시장거래총괄계좌설정약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1766",
+          "revision_date": "2025-12-10",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=133&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "134",
+          "name": "유사해외통화선물(FX Margin Trading) 거래 약관",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1720",
+          "revision_date": "2025-05-13",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=134&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        },
+        {
+          "site": "KOFIA",
+          "reg_id": "371",
+          "name": "매매거래계좌설정약관(다자간매매체결회사 참가회사용)",
+          "category": [
+            "표준약관"
+          ],
+          "kind": "본규정",
+          "revision_id": "1786",
+          "revision_date": "2026-03-17",
+          "url": "https://law.kofia.or.kr/service/law/lawView.do?seq=371&historySeq=0&gubun=cur&tree=part",
+          "collected_at": "2026-10-27T15:20:14",
+          "extra": {
+            "law_type": "일반"
+          }
+        }
+      ]
+    },
+    "KRX": {
+      "updated_at": "2026-10-27T15:20:49",
+      "regulations": [
+        {
+          "site": "KRX",
+          "reg_id": "1",
+          "name": "정관",
+          "category": [
+            "정관"
+          ],
+          "kind": "본규정",
+          "revision_id": "210016572",
+          "revision_date": "2025-03-04",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 정관 > 정관",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 17,
+            "effective_date": "2025-03-04",
+            "promul_no": "2286",
+            "dept": "기획조정팀,증권시스템팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "210225538",
+          "name": "손해배상심의위원회 운영세칙",
+          "category": [],
+          "kind": "본규정",
+          "revision_id": "210225538",
+          "revision_date": "2026-07-01",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 손해배상심의위원회 운영세칙",
+            "bookcd": "세칙",
+            "rev_type": "제정",
+            "rev_count": 0,
+            "effective_date": "2026-07-01",
+            "promul_no": "2463",
+            "dept": "법무팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "282",
+          "name": "제단체 가입 및 후원 등에 관한 지침",
+          "category": [],
+          "kind": "본규정",
+          "revision_id": "204819987",
+          "revision_date": "2025-01-10",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 제단체 가입 및 후원 등에 관한 지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 1,
+            "effective_date": "2025-01-10",
+            "promul_no": "909",
+            "dept": "경영관리팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "330010926",
+          "name": "저PBR기업 선정 등에 관한 지침",
+          "category": [
+            "업무규정",
+            "공통규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "330010926",
+          "revision_date": "2026-09-10",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 공통규정 > 저PBR기업 선정 등에 관한 지침",
+            "bookcd": "지침",
+            "rev_type": "제정",
+            "rev_count": 0,
+            "effective_date": "2026-09-11",
+            "promul_no": "1019",
+            "dept": "밸류업제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "318",
+          "name": "전자금융거래 분쟁처리지침",
+          "category": [
+            "업무규정",
+            "공통규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204848011",
+          "revision_date": "2023-04-27",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 공통규정 > 전자금융거래 분쟁처리지침",
+            "bookcd": "지침",
+            "rev_type": "제정",
+            "rev_count": 0,
+            "effective_date": "2023-05-02",
+            "promul_no": "830",
+            "dept": "법무팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "86",
+          "name": "거래증거금 및 청산증거금 현금 운용지침",
+          "category": [
+            "업무규정",
+            "공통규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210217736",
+          "revision_date": "2026-06-16",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 공통규정 > 거래증거금 및 청산증거금 현금 운용지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 22,
+            "effective_date": "2026-06-17",
+            "promul_no": "1006",
+            "dept": "장내청산결제부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "263",
+          "name": "인덱스사업 운영지침",
+          "category": [
+            "업무규정",
+            "공통규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847912",
+          "revision_date": "2024-09-10",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 공통규정 > 인덱스사업 운영지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 3,
+            "effective_date": "2024-09-10",
+            "promul_no": "2247",
+            "dept": "인덱스마케팅팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "259",
+          "name": "증권·파생상품시장 증거금 관리지침",
+          "category": [
+            "업무규정",
+            "공통규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210210269",
+          "revision_date": "2026-05-19",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 공통규정 > 증권·파생상품시장 증거금 관리지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 15,
+            "effective_date": "2026-05-26",
+            "promul_no": "1004",
+            "dept": "CCP리스크관리부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "190",
+          "name": "회원시스템 접속 등에 관한 지침",
+          "category": [
+            "업무규정",
+            "공통규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210147374",
+          "revision_date": "2025-12-15",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 공통규정 > 회원시스템 접속 등에 관한 지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 13,
+            "effective_date": "2025-12-17",
+            "promul_no": "975",
+            "dept": "국채시장팀,유가증권시장본부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "83",
+          "name": "손해배상공동기금 관리지침",
+          "category": [
+            "업무규정",
+            "공통규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210025875",
+          "revision_date": "2025-02-27",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 공통규정 > 손해배상공동기금 관리지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 14,
+            "effective_date": "2025-03-04",
+            "promul_no": "926",
+            "dept": "청산결제부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "293",
+          "name": "거래정보저장업무규정",
+          "category": [
+            "업무규정",
+            "거래정보저장업무규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847960",
+          "revision_date": "2021-03-08",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 거래정보저장업무규정 > 거래정보저장업무규정",
+            "bookcd": "규정",
+            "rev_type": "제정",
+            "rev_count": 0,
+            "effective_date": "2021-04-01",
+            "promul_no": "1914",
+            "dept": "TR제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "294",
+          "name": "거래정보저장업무규정 시행세칙",
+          "category": [
+            "업무규정",
+            "거래정보저장업무규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "210024015",
+          "revision_date": "2025-06-24",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 거래정보저장업무규정 > 거래정보저장업무규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 6,
+            "effective_date": "2025-10-27",
+            "promul_no": "2337",
+            "dept": "TR제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "4",
+          "name": "시장감시규정",
+          "category": [
+            "업무규정",
+            "시장감시규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210162282",
+          "revision_date": "2026-01-29",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 시장감시규정 > 시장감시규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 17,
+            "effective_date": "2026-01-29",
+            "promul_no": "2392",
+            "dept": "시장감시제도부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "6",
+          "name": "시장감시규정 시행세칙",
+          "category": [
+            "업무규정",
+            "시장감시규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "330017929",
+          "revision_date": "2026-10-01",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 시장감시규정 > 시장감시규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 75,
+            "effective_date": "2026-10-02",
+            "promul_no": "2511",
+            "dept": "시장감시제도부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "5",
+          "name": "분쟁조정규정",
+          "category": [
+            "업무규정",
+            "시장감시규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210015705",
+          "revision_date": "2025-02-05",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 시장감시규정 > 분쟁조정규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 4,
+            "effective_date": "2025-03-04",
+            "promul_no": "2282",
+            "dept": "시장감시제도부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "11",
+          "name": "분쟁조정규정시행세칙",
+          "category": [
+            "업무규정",
+            "시장감시규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "204844636",
+          "revision_date": "2023-08-31",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 시장감시규정 > 분쟁조정규정시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 9,
+            "effective_date": "2023-09-01",
+            "promul_no": "2156",
+            "dept": "시장감시제도부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "127",
+          "name": "소송지원 운영지침",
+          "category": [
+            "업무규정",
+            "시장감시규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204846763",
+          "revision_date": "2014-03-24",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 시장감시규정 > 소송지원 운영지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 4,
+            "effective_date": "2014-03-24",
+            "promul_no": "384",
+            "dept": "시장감시제도부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "233",
+          "name": "KRX금시장 시장감시 및 분쟁조정 규정 시행세칙",
+          "category": [
+            "업무규정",
+            "시장감시규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "330020004",
+          "revision_date": "2026-10-01",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 시장감시규정 > KRX금시장 시장감시 및 분쟁조정 규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 2,
+            "effective_date": "2026-10-02",
+            "promul_no": "2512",
+            "dept": "시장감시제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "246",
+          "name": "배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙",
+          "category": [
+            "업무규정",
+            "시장감시규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "204847824",
+          "revision_date": "2024-10-15",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 시장감시규정 > 배출권 거래시장 시장감시 및 분쟁조정 규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 2,
+            "effective_date": "2024-10-16",
+            "promul_no": "2254",
+            "dept": "시장감시제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "230",
+          "name": "KRX금시장 시장감시 및 분쟁조정 규정",
+          "category": [
+            "업무규정",
+            "시장감시규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847714",
+          "revision_date": "2014-06-20",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 시장감시규정 > KRX금시장 시장감시 및 분쟁조정 규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 2,
+            "effective_date": "2014-06-23",
+            "promul_no": "1042",
+            "dept": "시장감시제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "244",
+          "name": "배출권 거래시장 시장감시 및 분쟁조정 규정",
+          "category": [
+            "업무규정",
+            "시장감시규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847819",
+          "revision_date": "2021-06-22",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 시장감시규정 > 배출권 거래시장 시장감시 및 분쟁조정 규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 1,
+            "effective_date": "2021-06-22",
+            "promul_no": "1972",
+            "dept": "시장감시제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "2",
+          "name": "회원관리규정",
+          "category": [
+            "업무규정",
+            "회원관리규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210073008",
+          "revision_date": "2025-09-22",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 회원관리규정 > 회원관리규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 15,
+            "effective_date": "2025-11-03",
+            "promul_no": "(현행)2283",
+            "dept": "경영관리팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "3",
+          "name": "회원관리규정 시행세칙",
+          "category": [
+            "업무규정",
+            "회원관리규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "210204739",
+          "revision_date": "2026-04-28",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 회원관리규정 > 회원관리규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 21,
+            "effective_date": "2026-05-04",
+            "promul_no": "2437",
+            "dept": "경영관리팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "135",
+          "name": "주식양도 승인기준",
+          "category": [
+            "업무규정",
+            "회원관리규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204846917",
+          "revision_date": "2014-05-30",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 회원관리규정 > 주식양도 승인기준",
+            "bookcd": "기준",
+            "rev_type": "일부개정",
+            "rev_count": 2,
+            "effective_date": "2014-05-30",
+            "promul_no": "397",
+            "dept": "재무관리팀,경영관리팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "267",
+          "name": "환매조건부채권 매매전문참가자 관리지침",
+          "category": [
+            "업무규정",
+            "회원관리규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847919",
+          "revision_date": "2019-11-26",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 회원관리규정 > 환매조건부채권 매매전문참가자 관리지침",
+            "bookcd": "지침",
+            "rev_type": "제정",
+            "rev_count": 0,
+            "effective_date": "2019-12-02",
+            "promul_no": "670",
+            "dept": "채권제도팀,경영관리팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "210124215",
+          "name": "신종증권시장 운영규정",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210124215",
+          "revision_date": "2025-09-22",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > 신종증권시장 운영규정",
+            "bookcd": "규정",
+            "rev_type": "제정",
+            "rev_count": 0,
+            "effective_date": "2025-10-24",
+            "promul_no": "2358",
+            "dept": "신종증권시장팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "210136803",
+          "name": "신종증권시장 운영규정 시행세칙",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "210136803",
+          "revision_date": "2025-10-23",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > 신종증권시장 운영규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "제정",
+            "rev_count": 0,
+            "effective_date": "2025-10-24",
+            "promul_no": "2369",
+            "dept": "신종증권시장팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "210049902",
+          "name": "종류형집합투자기구 상장형 수익증권시장 운영규정",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210049902",
+          "revision_date": "2025-03-26",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > 종류형집합투자기구 상장형 수익증권시장 운영규정",
+            "bookcd": "규정",
+            "rev_type": "제정",
+            "rev_count": 0,
+            "effective_date": "2025-05-12",
+            "promul_no": "2319",
+            "dept": "ETP개발팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "210067398",
+          "name": "종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "210137438",
+          "revision_date": "2025-10-20",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > 종류형집합투자기구 상장형 수익증권시장 운영규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 1,
+            "effective_date": "2025-10-27",
+            "promul_no": "2368",
+            "dept": "ETP개발팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "270",
+          "name": "ESG채권 정보플랫폼 운영지침",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847935",
+          "revision_date": "2024-04-30",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > ESG채권 정보플랫폼 운영지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 5,
+            "effective_date": "2024-05-09",
+            "promul_no": "879",
+            "dept": "일반채권시장팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "109",
+          "name": "유가증권시장 업무규정",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "330007789",
+          "revision_date": "2026-09-09",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > 유가증권시장 업무규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 61,
+            "effective_date": "2026-09-14",
+            "promul_no": "2497",
+            "dept": "주식시장부,ETP개발팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "111",
+          "name": "유가증권시장 업무규정 시행세칙",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "330011206",
+          "revision_date": "2026-09-11",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > 유가증권시장 업무규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 177,
+            "effective_date": "2026-09-14",
+            "promul_no": "2499",
+            "dept": "주식시장부,채권시장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "12",
+          "name": "유가증권시장 공시규정",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210235646",
+          "revision_date": "2026-07-31",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > 유가증권시장 공시규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 38,
+            "effective_date": "2026-08-03",
+            "promul_no": "2481",
+            "dept": "공시부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "13",
+          "name": "유가증권시장 공시규정 시행세칙",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "330012844",
+          "revision_date": "2026-09-11",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > 유가증권시장 공시규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 47,
+            "effective_date": "2026-09-14",
+            "promul_no": "2504",
+            "dept": "공시부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "9",
+          "name": "유가증권시장 공정공시 운영기준",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204844585",
+          "revision_date": "2024-05-24",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > 유가증권시장 공정공시 운영기준",
+            "bookcd": "기준",
+            "rev_type": "일부개정",
+            "rev_count": 7,
+            "effective_date": "2024-05-27",
+            "promul_no": "885",
+            "dept": "공시부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "184",
+          "name": "유가증권시장 불성실공시 신고 및 포상에 관한 기준",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210069181",
+          "revision_date": "2025-05-15",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > 유가증권시장 불성실공시 신고 및 포상에 관한 기준",
+            "bookcd": "기준",
+            "rev_type": "일부개정",
+            "rev_count": 2,
+            "effective_date": "2025-05-21",
+            "promul_no": "930",
+            "dept": "공시부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "15",
+          "name": "유가증권시장 상장규정",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "330014540",
+          "revision_date": "2026-09-23",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > 유가증권시장 상장규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 55,
+            "effective_date": "2026-09-23",
+            "promul_no": "2506",
+            "dept": "상장부,상장제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "16",
+          "name": "유가증권시장 상장규정 시행세칙",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "330020420",
+          "revision_date": "2026-10-02",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > 유가증권시장 상장규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 135,
+            "effective_date": "2026-10-02",
+            "promul_no": "2513",
+            "dept": "상장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "14",
+          "name": "유가증권시장 상장적격성 실질심사지침",
+          "category": [
+            "업무규정",
+            "유가증권시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210128148",
+          "revision_date": "2025-11-21",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 유가증권시장규정 > 유가증권시장 상장적격성 실질심사지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 9,
+            "effective_date": "2025-11-21",
+            "promul_no": "970",
+            "dept": "상장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "21",
+          "name": "코스닥시장 업무규정",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210228704",
+          "revision_date": "2026-09-09",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > 코스닥시장 업무규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 58,
+            "effective_date": "2026-09-14",
+            "promul_no": "2498",
+            "dept": "코스닥매매제도팀,코스닥시장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "113",
+          "name": "코스닥시장 업무규정 시행세칙",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "230001398",
+          "revision_date": "2026-09-10",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > 코스닥시장 업무규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 119,
+            "effective_date": "2026-09-14",
+            "promul_no": "2500",
+            "dept": "코스닥매매제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "254",
+          "name": "KSM 운영지침",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847877",
+          "revision_date": "2024-09-20",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > KSM 운영지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 15,
+            "effective_date": "2024-09-30",
+            "promul_no": "899",
+            "dept": "코스닥시장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "17",
+          "name": "코스닥시장 공시규정",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210235314",
+          "revision_date": "2026-07-31",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > 코스닥시장 공시규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 41,
+            "effective_date": "2026-08-03",
+            "promul_no": "2480",
+            "dept": "공시부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "110",
+          "name": "코스닥시장 공시규정 시행세칙",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "330013193",
+          "revision_date": "2026-09-11",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > 코스닥시장 공시규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 54,
+            "effective_date": "2026-09-14",
+            "promul_no": "2503",
+            "dept": "공시부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "185",
+          "name": "코스닥시장 불성실공시 신고 및 포상에 관한 기준",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847353",
+          "revision_date": "2024-07-18",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > 코스닥시장 불성실공시 신고 및 포상에 관한 기준",
+            "bookcd": "기준",
+            "rev_type": "일부개정",
+            "rev_count": 2,
+            "effective_date": "2024-07-22",
+            "promul_no": "894",
+            "dept": "공시부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "18",
+          "name": "코스닥시장 공정공시 운영기준",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204844930",
+          "revision_date": "2024-05-24",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > 코스닥시장 공정공시 운영기준",
+            "bookcd": "기준",
+            "rev_type": "일부개정",
+            "rev_count": 8,
+            "effective_date": "2024-05-27",
+            "promul_no": "884",
+            "dept": "공시부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "20",
+          "name": "코스닥시장 상장규정",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "330015704",
+          "revision_date": "2026-09-23",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > 코스닥시장 상장규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 60,
+            "effective_date": "2026-09-23",
+            "promul_no": "2510",
+            "dept": "상장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "112",
+          "name": "코스닥시장 상장규정 시행세칙",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "330020393",
+          "revision_date": "2026-10-02",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > 코스닥시장 상장규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 102,
+            "effective_date": "2026-10-02",
+            "promul_no": "2514",
+            "dept": "상장제도팀,상장제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "182",
+          "name": "코스닥시장 소속부 운영기준",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847345",
+          "revision_date": "2021-10-29",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > 코스닥시장 소속부 운영기준",
+            "bookcd": "기준",
+            "rev_type": "일부개정",
+            "rev_count": 2,
+            "effective_date": "2021-11-01",
+            "promul_no": "751",
+            "dept": "상장심사부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "19",
+          "name": "코스닥시장 상장적격성 실질심사지침",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210088759",
+          "revision_date": "2025-07-09",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > 코스닥시장 상장적격성 실질심사지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 15,
+            "effective_date": "2025-07-10",
+            "promul_no": "941",
+            "dept": "기업심사2팀,상장관리부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "181",
+          "name": "전문가회의 운영지침",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847342",
+          "revision_date": "2023-12-28",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > 전문가회의 운영지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 6,
+            "effective_date": "2024-01-01",
+            "promul_no": "864",
+            "dept": "기술기업상장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "123",
+          "name": "전문평가제도 운영지침",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210203237",
+          "revision_date": "2026-05-19",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > 전문평가제도 운영지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 24,
+            "effective_date": "2026-05-19",
+            "promul_no": "1003",
+            "dept": "기술기업상장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "307",
+          "name": "코스닥시장 글로벌 기업의 지정 등에 관한 지침",
+          "category": [
+            "업무규정",
+            "코스닥시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210102217",
+          "revision_date": "2025-08-21",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코스닥시장규정 > 코스닥시장 글로벌 기업의 지정 등에 관한 지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 4,
+            "effective_date": "2025-08-25",
+            "promul_no": "954",
+            "dept": "상장제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "210",
+          "name": "코넥스시장 업무규정",
+          "category": [
+            "업무규정",
+            "코넥스시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210223624",
+          "revision_date": "2026-07-01",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코넥스시장규정 > 코넥스시장 업무규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 24,
+            "effective_date": "2026-07-02",
+            "promul_no": "2456",
+            "dept": "코넥스시장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "212",
+          "name": "코넥스시장 업무규정 시행세칙",
+          "category": [
+            "업무규정",
+            "코넥스시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "330015229",
+          "revision_date": "2026-09-23",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코넥스시장규정 > 코넥스시장 업무규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 56,
+            "effective_date": "2026-09-23",
+            "promul_no": "2509",
+            "dept": "코넥스시장부,코넥스제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "215",
+          "name": "코넥스시장 공시규정",
+          "category": [
+            "업무규정",
+            "코넥스시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210223621",
+          "revision_date": "2026-07-01",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코넥스시장규정 > 코넥스시장 공시규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 13,
+            "effective_date": "2026-07-02",
+            "promul_no": "2458",
+            "dept": "코넥스시장부,코넥스제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "216",
+          "name": "코넥스시장 공시규정 시행세칙",
+          "category": [
+            "업무규정",
+            "코넥스시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "210224312",
+          "revision_date": "2026-07-01",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코넥스시장규정 > 코넥스시장 공시규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 20,
+            "effective_date": "2026-07-02",
+            "promul_no": "2459",
+            "dept": "코넥스시장부,코넥스제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "214",
+          "name": "코넥스시장 상장규정",
+          "category": [
+            "업무규정",
+            "코넥스시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "330015845",
+          "revision_date": "2026-09-23",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코넥스시장규정 > 코넥스시장 상장규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 17,
+            "effective_date": "2026-09-23",
+            "promul_no": "2507",
+            "dept": "코넥스시장부,코넥스제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "213",
+          "name": "코넥스시장 상장규정 시행세칙",
+          "category": [
+            "업무규정",
+            "코넥스시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "330016397",
+          "revision_date": "2026-09-23",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코넥스시장규정 > 코넥스시장 상장규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 33,
+            "effective_date": "2026-09-23",
+            "promul_no": "2508",
+            "dept": "코넥스시장부,코넥스제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "223",
+          "name": "코넥스시장 상장적격성 실질심사지침",
+          "category": [
+            "업무규정",
+            "코넥스시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210212163",
+          "revision_date": "2026-05-15",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코넥스시장규정 > 코넥스시장 상장적격성 실질심사지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 4,
+            "effective_date": "2026-05-18",
+            "promul_no": "1002",
+            "dept": "코넥스시장부,코넥스제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "222",
+          "name": "코넥스시장 상장심사지침",
+          "category": [
+            "업무규정",
+            "코넥스시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "330015278",
+          "revision_date": "2026-09-23",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코넥스시장규정 > 코넥스시장 상장심사지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 3,
+            "effective_date": "2026-09-23",
+            "promul_no": "1022",
+            "dept": "코넥스시장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "250",
+          "name": "전문가회의 및 기술평가제도 운영지침",
+          "category": [
+            "업무규정",
+            "코넥스시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847848",
+          "revision_date": "2021-04-16",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 코넥스시장규정 > 전문가회의 및 기술평가제도 운영지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 3,
+            "effective_date": "2021-04-16",
+            "promul_no": "728",
+            "dept": "코넥스상장심사팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "10",
+          "name": "파생상품시장 업무규정",
+          "category": [
+            "업무규정",
+            "파생상품시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210199976",
+          "revision_date": "2026-04-15",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 파생상품시장규정 > 파생상품시장 업무규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 42,
+            "effective_date": "2026-06-29",
+            "promul_no": "2432",
+            "dept": "파생상품제도부,FICC파생개발팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "114",
+          "name": "파생상품시장 업무규정 시행세칙",
+          "category": [
+            "업무규정",
+            "파생상품시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "210228709",
+          "revision_date": "2026-07-06",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 파생상품시장규정 > 파생상품시장 업무규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 164,
+            "effective_date": "2026-07-06",
+            "promul_no": "2474",
+            "dept": "주식파생사업부,CCP리스크관리부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "292",
+          "name": "주식·주가지수 파생상품 시장조성 운영지침",
+          "category": [
+            "업무규정",
+            "파생상품시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210202173",
+          "revision_date": "2026-06-23",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 파생상품시장규정 > 주식·주가지수 파생상품 시장조성 운영지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 12,
+            "effective_date": "2026-06-29",
+            "promul_no": "1008",
+            "dept": "파생기관사업팀,FICC파생개발팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "298",
+          "name": "금리·통화·일반파생상품 시장조성 운영지침",
+          "category": [
+            "업무규정",
+            "파생상품시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210205830",
+          "revision_date": "2026-06-23",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 파생상품시장규정 > 금리·통화·일반파생상품 시장조성 운영지침",
+            "bookcd": "지침",
+            "rev_type": "일부개정",
+            "rev_count": 9,
+            "effective_date": "2026-07-01",
+            "promul_no": "1007",
+            "dept": "파생기관사업팀,FICC파생개발팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "304",
+          "name": "KRX금시장 참가계약서",
+          "category": [
+            "업무규정",
+            "일반상품시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847987",
+          "revision_date": "2014-03-11",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 일반상품시장규정 > KRX금시장 참가계약서",
+            "bookcd": "규정",
+            "rev_type": "제정",
+            "rev_count": 0,
+            "effective_date": "2014-03-11",
+            "promul_no": "2148",
+            "dept": "금시장팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "322",
+          "name": "KRX석유시장 이용계약서",
+          "category": [
+            "업무규정",
+            "일반상품시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204848017",
+          "revision_date": "2014-07-14",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 일반상품시장규정 > KRX석유시장 이용계약서",
+            "bookcd": "규정",
+            "rev_type": "제정",
+            "rev_count": 0,
+            "effective_date": "2014-07-14",
+            "promul_no": "2149",
+            "dept": "석유시장팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "242",
+          "name": "배출권 거래시장 운영규정",
+          "category": [
+            "업무규정",
+            "일반상품시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210132254",
+          "revision_date": "2025-10-13",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 일반상품시장규정 > 배출권 거래시장 운영규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 12,
+            "effective_date": "2025-11-24",
+            "promul_no": "2363",
+            "dept": "배출권시장팀,파생상품시장본부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "243",
+          "name": "배출권 거래시장 운영규정 시행세칙",
+          "category": [
+            "업무규정",
+            "일반상품시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "210132992",
+          "revision_date": "2025-11-21",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 일반상품시장규정 > 배출권 거래시장 운영규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 19,
+            "effective_date": "2025-11-24",
+            "promul_no": "2375",
+            "dept": "배출권시장팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "231",
+          "name": "KRX금시장 운영규정",
+          "category": [
+            "업무규정",
+            "일반상품시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210188671",
+          "revision_date": "2026-03-16",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 일반상품시장규정 > KRX금시장 운영규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 13,
+            "effective_date": "2026-04-18",
+            "promul_no": "2419",
+            "dept": "일반상품시장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "232",
+          "name": "KRX금시장 운영규정 시행세칙",
+          "category": [
+            "업무규정",
+            "일반상품시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "210188913",
+          "revision_date": "2026-03-16",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 일반상품시장규정 > KRX금시장 운영규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 29,
+            "effective_date": "2026-04-18",
+            "promul_no": "2420",
+            "dept": "금시장팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "194",
+          "name": "석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령",
+          "category": [
+            "업무규정",
+            "일반상품시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847401",
+          "revision_date": "2013-01-10",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 일반상품시장규정 > 석유제품현물전자상거래용 수입석유제품의 할당관세 세부추천요령",
+            "bookcd": "요령",
+            "rev_type": "일부개정",
+            "rev_count": 1,
+            "effective_date": "2013-01-14",
+            "promul_no": "313",
+            "dept": "일반상품시장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "191",
+          "name": "KRX석유시장 운영규정",
+          "category": [
+            "업무규정",
+            "일반상품시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847392",
+          "revision_date": "2021-12-20",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 일반상품시장규정 > KRX석유시장 운영규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 17,
+            "effective_date": "2022-01-03",
+            "promul_no": "2008",
+            "dept": "일반상품시장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "268",
+          "name": "KRX석유시장 운영규정 시행세칙",
+          "category": [
+            "업무규정",
+            "일반상품시장규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "210084351",
+          "revision_date": "2025-06-27",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 일반상품시장규정 > KRX석유시장 운영규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 3,
+            "effective_date": "2025-07-01",
+            "promul_no": "2338",
+            "dept": "일반상품시장부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "236",
+          "name": "KRX금시장 매매거래용 금지금 관세면제 추천요령",
+          "category": [
+            "업무규정",
+            "일반상품시장규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847764",
+          "revision_date": "2017-05-11",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 일반상품시장규정 > KRX금시장 매매거래용 금지금 관세면제 추천요령",
+            "bookcd": "요령",
+            "rev_type": "일부개정",
+            "rev_count": 1,
+            "effective_date": "2017-05-12",
+            "promul_no": "552",
+            "dept": "금시장운영팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "210018187",
+          "name": "증권시장 청산결제 업무규정",
+          "category": [
+            "업무규정",
+            "증권시장청산결제업무규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210185757",
+          "revision_date": "2026-03-04",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 증권시장청산결제업무규정 > 증권시장 청산결제 업무규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 1,
+            "effective_date": "2026-04-27",
+            "promul_no": "2418",
+            "dept": "장내청산결제제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "210028640",
+          "name": "증권시장 청산결제 업무규정 시행세칙",
+          "category": [
+            "업무규정",
+            "증권시장청산결제업무규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "210232847",
+          "revision_date": "2026-09-11",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 증권시장청산결제업무규정 > 증권시장 청산결제 업무규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 2,
+            "effective_date": "2026-09-14",
+            "promul_no": "2502",
+            "dept": "장내청산결제제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "209",
+          "name": "장외파생상품 청산업무규정",
+          "category": [
+            "업무규정",
+            "장외파생상품청산업무규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "210124485",
+          "revision_date": "2025-09-17",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 장외파생상품청산업무규정 > 장외파생상품 청산업무규정",
+            "bookcd": "규정",
+            "rev_type": "일부개정",
+            "rev_count": 11,
+            "effective_date": "2025-10-27",
+            "promul_no": "2357",
+            "dept": "장외청산결제부,CCP리스크관리부,장외리스크관리팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "225",
+          "name": "장외파생상품 청산업무규정 시행세칙",
+          "category": [
+            "업무규정",
+            "장외파생상품청산업무규정"
+          ],
+          "kind": "시행세칙",
+          "revision_id": "210215757",
+          "revision_date": "2026-05-28",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 장외파생상품청산업무규정 > 장외파생상품 청산업무규정 시행세칙",
+            "bookcd": "세칙",
+            "rev_type": "일부개정",
+            "rev_count": 26,
+            "effective_date": "2026-06-01",
+            "promul_no": "2449",
+            "dept": "장외청산결제부,CCP리스크관리부",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "227",
+          "name": "거래소거래확인시스템 운영 등에 관한 지침",
+          "category": [
+            "업무규정",
+            "장외파생상품청산업무규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847707",
+          "revision_date": "2023-06-26",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 장외파생상품청산업무규정 > 거래소거래확인시스템 운영 등에 관한 지침",
+            "bookcd": "기준",
+            "rev_type": "일부개정",
+            "rev_count": 3,
+            "effective_date": "2023-07-03",
+            "promul_no": "836",
+            "dept": "장외청산결제제도팀",
+            "noformyn": "N"
+          }
+        },
+        {
+          "site": "KRX",
+          "reg_id": "241",
+          "name": "장외파생공동기금 적립에 따른 규제자본변수 산출 등에 관한 기준",
+          "category": [
+            "업무규정",
+            "장외파생상품청산업무규정"
+          ],
+          "kind": "본규정",
+          "revision_id": "204847787",
+          "revision_date": "2018-01-24",
+          "url": "https://rule.krx.co.kr/out/index.do",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "navigation": "KRX규정 > 업무규정 > 장외파생상품청산업무규정 > 장외파생공동기금 적립에 따른 규제자본변수 산출 등에 관한 기준",
+            "bookcd": "기준",
+            "rev_type": "일부개정",
+            "rev_count": 2,
+            "effective_date": "2018-01-29",
+            "promul_no": "584",
+            "dept": "CCP리스크관리팀,CCP리스크관리부",
+            "noformyn": "N"
+          }
+        }
+      ]
+    },
+    "법제처": {
+      "updated_at": "2026-10-27T15:21:18",
+      "regulations": [
+        {
+          "site": "법제처",
+          "reg_id": "법령/자본시장과금융투자업에관한법률",
+          "name": "자본시장과 금융투자업에 관한 법률",
+          "category": [
+            "자본시장 일반"
+          ],
+          "kind": "법률",
+          "revision_id": "288615",
+          "revision_date": "2026-10-02",
+          "url": "https://www.law.go.kr/법령/자본시장과금융투자업에관한법률",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        },
+        {
+          "site": "법제처",
+          "reg_id": "법령/자본시장과금융투자업에관한법률시행령",
+          "name": "자본시장과 금융투자업에 관한 법률 시행령",
+          "category": [
+            "자본시장 일반"
+          ],
+          "kind": "대통령령",
+          "revision_id": "291081",
+          "revision_date": "2026-10-13",
+          "url": "https://www.law.go.kr/법령/자본시장과금융투자업에관한법률시행령",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        },
+        {
+          "site": "법제처",
+          "reg_id": "법령/자본시장과금융투자업에관한법률시행규칙",
+          "name": "자본시장과 금융투자업에 관한 법률 시행규칙",
+          "category": [
+            "자본시장 일반"
+          ],
+          "kind": "총리령·부령",
+          "revision_id": "291415",
+          "revision_date": "2026-10-20",
+          "url": "https://www.law.go.kr/법령/자본시장과금융투자업에관한법률시행규칙",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        },
+        {
+          "site": "법제처",
+          "reg_id": "행정규칙/금융투자업규정",
+          "name": "금융투자업규정",
+          "category": [
+            "자본시장 일반"
+          ],
+          "kind": "행정규칙",
+          "revision_id": "2100000285020",
+          "revision_date": "2026-09-15",
+          "url": "https://www.law.go.kr/행정규칙/금융투자업규정",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        },
+        {
+          "site": "법제처",
+          "reg_id": "법령/금융소비자보호에관한법률",
+          "name": "금융소비자 보호에 관한 법률",
+          "category": [
+            "금융소비자보호"
+          ],
+          "kind": "법률",
+          "revision_id": "277247",
+          "revision_date": "2026-01-02",
+          "url": "https://www.law.go.kr/법령/금융소비자보호에관한법률",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        },
+        {
+          "site": "법제처",
+          "reg_id": "법령/금융소비자보호에관한법률시행령",
+          "name": "금융소비자 보호에 관한 법률 시행령",
+          "category": [
+            "금융소비자보호"
+          ],
+          "kind": "대통령령",
+          "revision_id": "285715",
+          "revision_date": "2026-04-28",
+          "url": "https://www.law.go.kr/법령/금융소비자보호에관한법률시행령",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        },
+        {
+          "site": "법제처",
+          "reg_id": "행정규칙/금융소비자보호에관한감독규정",
+          "name": "금융소비자 보호에 관한 감독규정",
+          "category": [
+            "금융소비자보호"
+          ],
+          "kind": "행정규칙",
+          "revision_id": "2100000285608",
+          "revision_date": "2026-10-02",
+          "url": "https://www.law.go.kr/행정규칙/금융소비자보호에관한감독규정",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        },
+        {
+          "site": "법제처",
+          "reg_id": "법령/금융실명거래및비밀보장에관한법률",
+          "name": "금융실명거래 및 비밀보장에 관한 법률",
+          "category": [
+            "실명거래·자금세탁방지"
+          ],
+          "kind": "법률",
+          "revision_id": "270423",
+          "revision_date": "2025-04-01",
+          "url": "https://www.law.go.kr/법령/금융실명거래및비밀보장에관한법률",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        },
+        {
+          "site": "법제처",
+          "reg_id": "법령/특정금융거래정보의보고및이용등에관한법률",
+          "name": "특정 금융거래정보의 보고 및 이용 등에 관한 법률",
+          "category": [
+            "실명거래·자금세탁방지"
+          ],
+          "kind": "법률",
+          "revision_id": "290725",
+          "revision_date": "2026-10-02",
+          "url": "https://www.law.go.kr/법령/특정금융거래정보의보고및이용등에관한법률",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        },
+        {
+          "site": "법제처",
+          "reg_id": "법령/신용정보의이용및보호에관한법률",
+          "name": "신용정보의 이용 및 보호에 관한 법률",
+          "category": [
+            "신용정보·전자금융"
+          ],
+          "kind": "법률",
+          "revision_id": "283841",
+          "revision_date": "2026-09-11",
+          "url": "https://www.law.go.kr/법령/신용정보의이용및보호에관한법률",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        },
+        {
+          "site": "법제처",
+          "reg_id": "법령/전자금융거래법",
+          "name": "전자금융거래법",
+          "category": [
+            "신용정보·전자금융"
+          ],
+          "kind": "법률",
+          "revision_id": "290247",
+          "revision_date": "2026-10-02",
+          "url": "https://www.law.go.kr/법령/전자금융거래법",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        },
+        {
+          "site": "법제처",
+          "reg_id": "법령/조세특례제한법",
+          "name": "조세특례제한법",
+          "category": [
+            "세제"
+          ],
+          "kind": "법률",
+          "revision_id": "284389",
+          "revision_date": "2026-09-18",
+          "url": "https://www.law.go.kr/법령/조세특례제한법",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        },
+        {
+          "site": "법제처",
+          "reg_id": "법령/조세특례제한법시행령",
+          "name": "조세특례제한법 시행령",
+          "category": [
+            "세제"
+          ],
+          "kind": "대통령령",
+          "revision_id": "288915",
+          "revision_date": "2026-09-18",
+          "url": "https://www.law.go.kr/법령/조세특례제한법시행령",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        },
+        {
+          "site": "법제처",
+          "reg_id": "법령/조세특례제한법시행규칙",
+          "name": "조세특례제한법 시행규칙",
+          "category": [
+            "세제"
+          ],
+          "kind": "총리령·부령",
+          "revision_id": "289267",
+          "revision_date": "2026-09-18",
+          "url": "https://www.law.go.kr/법령/조세특례제한법시행규칙",
+          "collected_at": "2026-10-27T15:20:49",
+          "extra": {
+            "in_scope": true
+          }
+        }
+      ]
+    }
+  }
+}

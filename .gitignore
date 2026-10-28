@@ -1,0 +1,6 @@
+# 배포 zip은 tools/package.py로 다시 만든다
+dist/
+# 실제 업무 질의 기록
+exports/
+__pycache__/
+*.pyc

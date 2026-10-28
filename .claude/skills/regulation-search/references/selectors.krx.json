@@ -1,0 +1,39 @@
+{
+  "_comment": "KRX 법무포털 URL과 셀렉터. 화면이 바뀌면 이 파일만 고친다. 2026-10-27 확인. 직접 URL 진입은 막혀 있어 항상 index에서 시작한다.",
+  "base_url": "https://rule.krx.co.kr",
+  "urls": {
+    "index": "/out/index.do",
+    "view_post": "/out/regulation/regulationViewPop.do"
+  },
+  "menus": {
+    "rules": "KRX규정",
+    "recent": "최근 제·개정규정",
+    "notices": "규정 제·개정예고"
+  },
+  "work_frame": "workPage",
+  "grid_var": "gridStore",
+  "tree": {
+    "component_id": "treeMM",
+    "doc_types": ["doc", "file"],
+    "folder_type": "folder"
+  },
+  "csrf_input": "input[name=_csrf]",
+  "view": {
+    "title": "form[name=revi] p.title",
+    "header": "form[name=revi] p.jang",
+    "history_item": ".layerViewW .lv_contents > div",
+    "body": "#innerbody",
+    "headings": {"p.pyun": 0, "p.jang": 1, "p.jeol": 2, "p.gwan": 3},
+    "article": "div.Mjo",
+    "article_heading": "a[name] strong",
+    "article_note": "div.jotag",
+    "addenda": "p.buchik_title",
+    "addenda_body": "#innerbody > div#jo"
+  },
+  "search": {
+    "input": "#mainSchTxt",
+    "results_ready": ".innerB",
+    "item": ".innerB ul li dl",
+    "next_page_fn": "nextPage"
+  }
+}
