@@ -44,6 +44,17 @@ class HelperTest(unittest.TestCase):
             self.assertEqual(text.find(key).title, "투자자정보 파악 및 투자자성향 분석 등")
         self.assertEqual(text.articles[1].heading, "8. 투자자정보 파악 및 투자자성향 분석 등")
 
+    def test_find_hyphen_and_ui_numbers_interchange(self):
+        krx = RegulationText(Regulation(site="KRX", reg_id="1", name="세칙", category=[]), [
+            Article("제56조", "저유동성", "…"), Article("제56조의4", "종류주식", "…")])
+        for key in ("56-4", "56의4", "제56조의4"):
+            self.assertEqual(krx.find(key).title, "종류주식")
+        fsc = RegulationText(Regulation(site="법제처", reg_id="2", name="금융투자업규정", category=[]), [
+            Article("제4-20조", "불건전 영업행위", "…"), Article("제4조의2", "다른 조문", "…")])
+        self.assertEqual(fsc.find("4-20").title, "불건전 영업행위")
+        self.assertEqual(fsc.find("4-2").title, "다른 조문")  # "제4-2조"가 없을 때만 "제4조의2"로
+        self.assertEqual(fsc.find("4조의20").title, "불건전 영업행위")
+
 
 class ModelTest(unittest.TestCase):
     def setUp(self):

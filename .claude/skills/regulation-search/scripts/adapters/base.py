@@ -139,6 +139,13 @@ class RegulationText(_Model):
             for a in body:
                 if a.number == n or (a.number.endswith(".") and a.number[:-1] == plain):
                     return a
+            # "56-4"는 금융투자업규정식 "제56-4조"일 수도, KRX·법령식 "제56조의4"일 수도 있다. 정확히 맞는 게 없을 때만 바꿔 본다
+            m = re.fullmatch(r"제(\d+)-(\d+)조", n) or re.fullmatch(r"제(\d+)조의(\d+)", n)
+            if m:
+                alt = f"제{m[1]}조의{m[2]}" if "-" in n else f"제{m[1]}-{m[2]}조"
+                for a in body:
+                    if a.number == alt:
+                        return a
         if title:
             t = re.sub(r"\s", "", title)
             for exact in (True, False):
